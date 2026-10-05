@@ -1,0 +1,48 @@
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.out
+*.err
+*.tmp
+*.temp
+*~
+
+# Large genomics / binary data
+*.bed
+*.bim
+*.fam
+*.bgen
+*.pgen
+*.pvar
+*.psam
+*.vcf
+*.vcf.gz
+*.bcf
+*.bam
+*.cram
+
+# Compressed datasets
+*.gz
+*.bgz
+*.zip
+*.tar
+*.tar.gz
+
+# Local data directories
+data/
+raw_data/
+source_data/
+
+# Credentials / environment files
+.env
+*.pem
+*.key
