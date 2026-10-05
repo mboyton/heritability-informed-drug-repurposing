@@ -8,25 +8,20 @@ This repository contains analysis code used to investigate shared genetic archit
 
 ## Repository structure
 
-### 01_LDSC/
+#### 01_LDSC/
 Genome-wide genetic correlation analysis
 
 #### 02_LAVA/
-    Local genetic correlation analysis
+Local genetic correlation analysis
 
-03_coloc_SuSiE/
-    Cross-trait colocalisation analysis using SuSiE
+#### 03_coloc_SuSiE/
+Cross-trait colocalisation analysis using SuSiE
 
-04_TwoSampleMR/
-    Molecular QTL instrument preparation and Mendelian randomisation
-    analyses using UKBB-PPP and eQTLGen
+#### 04_TwoSampleMR/
+Molecular QTL instrument preparation and Mendelian randomisation analyses using UKBB-PPP and eQTLGen
 
-05_SNP_tagger_integration/
-    Mapping of colocalised variants to molecular QTL exposures
+#### 05_SNP_tagger_integration/
+Mapping of colocalised variants to molecular QTL exposures
 
-06_final_integration/
-    Integration of genetic, molecular interaction and pharmacological
-    evidence for target prioritisation
-
-07_figures/
-    Code used to generate manuscript figures
+#### 06_final_integration/
+Integration of genetic, molecular interaction and pharmacological evidence for target prioritisation
