@@ -8,8 +8,7 @@ This repository contains analysis code used to investigate shared genetic archit
 
 ## Repository structure
 
-```text
-01_LDSC/
+# 01_LDSC/
     Genome-wide genetic correlation analysis
 
 02_LAVA/
