@@ -11,7 +11,7 @@ This repository contains analysis code used to investigate shared genetic archit
 ### 01_LDSC/
 Genome-wide genetic correlation analysis
 
-02_LAVA/
+#### 02_LAVA/
     Local genetic correlation analysis
 
 03_coloc_SuSiE/
