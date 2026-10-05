@@ -6,7 +6,7 @@
 #
 # Instrument criteria:
 #   P < 5e-8
-#   LD clumping r2 < 0.001
+#   LD clumping r2 < 0.01
 #   LD clumping window = 10,000 kb
 #
 # LD clumping is performed locally using a European reference panel.
@@ -43,7 +43,7 @@ dir.create(
 # ------------------------------------------------------------------------------
 
 P_THRESHOLD <- 5e-8
-CLUMP_R2 <- 0.001
+CLUMP_R2 <- 0.01
 CLUMP_KB <- 10000
 
 
